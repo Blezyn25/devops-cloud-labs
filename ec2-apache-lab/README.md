@@ -4,7 +4,7 @@ Launched an Amazon Linux EC2 instance and connected via SSH from Git Bash.
 
 Installed, started and enabled Apache, served a custom 'index.html' page from '/var/www/html'.
 
-Explored how User Dtaa automates server setup on first boot.
+Explored how User Data automates server setup on first boot.
 
 Created an IAM Instance profile so the instance can use temporary role credentials instead of hard coded access keys.
 
