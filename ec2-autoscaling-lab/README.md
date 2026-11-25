@@ -17,8 +17,9 @@ Built, tested and decommissioned an automated EC2 Auto Scaling infrastructure in
 
 ## Proof of Work
 ### Auto Scaling Group Status
-![Auto Scaling Group](images/Screenshot 2026-11-24 235105.png)
+![Auto Scaling Group](images/asg-status.png)
 
 ### CloudWatch Scale-Up & Scale-Down Alarms
-![CloudWatch Alarms](images/Screenshot 2026-11-24 232652.png)
+![CloudWatch Alarms](images/cloudwatch-alarm.png)
+
 
